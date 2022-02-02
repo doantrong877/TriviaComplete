@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.26">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.36.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfxmessagebox-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jfxmessagebox-1.1.0.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
